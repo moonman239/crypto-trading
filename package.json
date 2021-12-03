@@ -1,0 +1,26 @@
+{
+  "name": "crypto-trading",
+  "version": "1.0.0",
+  "description": "Cryptocurrency Trading",
+  "main": "main.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "crypto-trading"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "trading"
+  ],
+  "author": "Montana Burr",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/preset-typescript": "^7.16.0",
+    "jest": "^27.4.3",
+    "ts-jest": "^27.0.7"
+  }
+}
